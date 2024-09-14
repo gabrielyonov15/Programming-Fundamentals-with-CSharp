@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\refint\07.NxNMatrix.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Methods - Exercise\07.NxNMatrix\obj\Debug\net8.0\ref\07.NxNMatrix.dll
