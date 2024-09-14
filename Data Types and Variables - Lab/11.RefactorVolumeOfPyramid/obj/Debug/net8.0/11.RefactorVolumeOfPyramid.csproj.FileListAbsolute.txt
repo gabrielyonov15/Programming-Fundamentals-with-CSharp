@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\refint\11.RefactorVolumeOfPyramid.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\ref\11.RefactorVolumeOfPyramid.dll
