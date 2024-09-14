@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\bin\Debug\net8.0\13.HolidaysTwoDates.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\bin\Debug\net8.0\13.HolidaysTwoDates.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\bin\Debug\net8.0\13.HolidaysTwoDates.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\bin\Debug\net8.0\13.HolidaysTwoDates.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\bin\Debug\net8.0\13.HolidaysTwoDates.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\refint\13.HolidaysTwoDates.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\13.HolidaysTwoDates.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysTwoDates\obj\Debug\net8.0\ref\13.HolidaysTwoDates.dll
