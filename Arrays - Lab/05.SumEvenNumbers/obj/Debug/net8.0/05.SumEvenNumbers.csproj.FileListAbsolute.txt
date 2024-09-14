@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\refint\05.SumEvenNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Lab\05.SumEvenNumbers\obj\Debug\net8.0\ref\05.SumEvenNumbers.dll
