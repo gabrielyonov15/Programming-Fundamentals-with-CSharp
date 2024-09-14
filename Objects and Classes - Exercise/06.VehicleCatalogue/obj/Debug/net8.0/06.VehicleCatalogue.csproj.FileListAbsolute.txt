@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\refint\06.VehicleCatalogue.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net8.0\ref\06.VehicleCatalogue.dll
