@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\refint\01.ConvertMetersToKilometers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\net8.0\ref\01.ConvertMetersToKilometers.dll
