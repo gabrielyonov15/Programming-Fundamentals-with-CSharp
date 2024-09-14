@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\bin\Debug\net8.0\05.Digits,LettersAndOther.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\bin\Debug\net8.0\05.Digits,LettersAndOther.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\bin\Debug\net8.0\05.Digits,LettersAndOther.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\bin\Debug\net8.0\05.Digits,LettersAndOther.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\bin\Debug\net8.0\05.Digits,LettersAndOther.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\refint\05.Digits,LettersAndOther.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\05.Digits,LettersAndOther.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Lab\05.Digits,LettersAndOther\obj\Debug\net8.0\ref\05.Digits,LettersAndOther.dll
