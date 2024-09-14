@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\refint\02.CharacterMultiplier.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net8.0\ref\02.CharacterMultiplier.dll
