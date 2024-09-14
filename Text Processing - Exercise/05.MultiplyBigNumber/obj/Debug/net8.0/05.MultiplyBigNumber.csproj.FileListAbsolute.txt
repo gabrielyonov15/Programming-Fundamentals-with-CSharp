@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\refint\05.MultiplyBigNumber.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\ref\05.MultiplyBigNumber.dll

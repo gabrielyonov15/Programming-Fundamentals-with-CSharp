@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\refint\06.ReplaceRepeatingChars.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Text Processing - Exercise\06.ReplaceRepeatingChars\obj\Debug\net8.0\ref\06.ReplaceRepeatingChars.dll
