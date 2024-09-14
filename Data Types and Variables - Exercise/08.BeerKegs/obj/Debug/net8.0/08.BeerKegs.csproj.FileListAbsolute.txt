@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\bin\Debug\net8.0\08.BeerKegs.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\bin\Debug\net8.0\08.BeerKegs.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\bin\Debug\net8.0\08.BeerKegs.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\bin\Debug\net8.0\08.BeerKegs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\bin\Debug\net8.0\08.BeerKegs.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\refint\08.BeerKegs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\08.BeerKegs.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Data Types and Variables - Exercise\08.BeerKegs\obj\Debug\net8.0\ref\08.BeerKegs.dll
