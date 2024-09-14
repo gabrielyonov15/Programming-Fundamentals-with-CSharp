@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net8.0\05.RemoveNegativesAndReverse.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net8.0\05.RemoveNegativesAndReverse.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net8.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net8.0\05.RemoveNegativesAndReverse.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net8.0\05.RemoveNegativesAndReverse.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\refint\05.RemoveNegativesAndReverse.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net8.0\ref\05.RemoveNegativesAndReverse.dll
