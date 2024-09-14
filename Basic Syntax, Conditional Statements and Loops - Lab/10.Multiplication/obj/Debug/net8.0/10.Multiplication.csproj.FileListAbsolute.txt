@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\bin\Debug\net8.0\10.Multiplication.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\bin\Debug\net8.0\10.Multiplication.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\bin\Debug\net8.0\10.Multiplication.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\bin\Debug\net8.0\10.Multiplication.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\bin\Debug\net8.0\10.Multiplication.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\refint\10.Multiplication.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\10.Multiplication.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication\obj\Debug\net8.0\ref\10.Multiplication.dll
