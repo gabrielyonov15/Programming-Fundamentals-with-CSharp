@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\bin\Debug\net8.0\01.Train.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\bin\Debug\net8.0\01.Train.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\bin\Debug\net8.0\01.Train.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\bin\Debug\net8.0\01.Train.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\bin\Debug\net8.0\01.Train.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\refint\01.Train.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\01.Train.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Arrays - Exercise\01.Train\obj\Debug\net8.0\ref\01.Train.dll
