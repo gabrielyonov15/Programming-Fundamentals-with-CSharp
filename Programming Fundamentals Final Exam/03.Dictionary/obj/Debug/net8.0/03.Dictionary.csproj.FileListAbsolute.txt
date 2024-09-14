@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\bin\Debug\net8.0\03.Dictionary.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\bin\Debug\net8.0\03.Dictionary.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\bin\Debug\net8.0\03.Dictionary.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\bin\Debug\net8.0\03.Dictionary.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\bin\Debug\net8.0\03.Dictionary.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\refint\03.Dictionary.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\03.Dictionary.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03.Dictionary\obj\Debug\net8.0\ref\03.Dictionary.dll

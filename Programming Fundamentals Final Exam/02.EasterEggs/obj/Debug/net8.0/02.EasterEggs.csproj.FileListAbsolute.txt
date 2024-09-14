@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\bin\Debug\net8.0\02.EasterEggs.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\bin\Debug\net8.0\02.EasterEggs.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\bin\Debug\net8.0\02.EasterEggs.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\bin\Debug\net8.0\02.EasterEggs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\bin\Debug\net8.0\02.EasterEggs.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\refint\02.EasterEggs.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\02.EasterEggs.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02.EasterEggs\obj\Debug\net8.0\ref\02.EasterEggs.dll

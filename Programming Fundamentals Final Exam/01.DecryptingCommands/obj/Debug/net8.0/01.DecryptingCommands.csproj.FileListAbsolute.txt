@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\bin\Debug\net8.0\01.DecryptingCommands.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\bin\Debug\net8.0\01.DecryptingCommands.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\bin\Debug\net8.0\01.DecryptingCommands.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\bin\Debug\net8.0\01.DecryptingCommands.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\bin\Debug\net8.0\01.DecryptingCommands.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\refint\01.DecryptingCommands.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\01.DecryptingCommands.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Programming Fundamentals Final Exam\01.DecryptingCommands\obj\Debug\net8.0\ref\01.DecryptingCommands.dll
