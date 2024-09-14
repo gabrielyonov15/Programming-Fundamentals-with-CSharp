@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\01.SumAdjacentEqualNumbers.dll
